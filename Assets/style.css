@@ -9,7 +9,7 @@ author: Matthew Petersen
 
 body {
     background-image: linear-gradient(white, #343a40);
-    background-size: cover;
+    background-size: 200%;
   }
   
 h1 {
