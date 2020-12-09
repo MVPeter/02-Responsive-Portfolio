@@ -9,6 +9,7 @@ author: Matthew Petersen
 
 body {
     background-image: linear-gradient(white, #343a40);
+    background-size: cover;
   }
   
 h1 {
@@ -20,6 +21,11 @@ p {
     font-family: verdana, Arial, Helvetica, sans-serif;
     font-size: 20px;
   }
+
+.cardtxt {
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
 
 footer {
     background-color: black;
