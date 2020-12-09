@@ -1,0 +1,26 @@
+/* --------------------------------------------------------
+Style Sheet for Responsive Portfolio webiste
+
+version: 1
+last modified: 12/09/2020 by Matthew Petersen
+author: Matthew Petersen
+
+----------------------------------------------------------*/
+
+body {
+    background-image: linear-gradient(white, #343a40);
+  }
+  
+h1 {
+    font-family: "Courier New", Arial; 
+    font-weight: bold;
+  }
+  
+p {
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+footer {
+    background-color: black;
+}
